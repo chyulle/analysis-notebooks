@@ -9,3 +9,4 @@ The learning goal is to practice data analysis tools and libraries. The notebook
 Roadmap
 
 - [ ] Sherlock Holmes story- SpaCy, NumPy
+- [ ] Phonological patterns- pandas, seaborn, statsmodels, scikit-learn
